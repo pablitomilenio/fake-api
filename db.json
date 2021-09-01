@@ -1,1 +1,7 @@
-{"results":[{"name":"bulbasaur","url":"https://pokeapi.co/api/v2/pokemon/1/"}]}
+{0:{
+question: "q1",
+answer: "a1"}
+1:{
+question: "q2",
+answer: "a2"}
+}
